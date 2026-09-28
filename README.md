@@ -1,4 +1,3 @@
-📊 **Advanced Excel Sales Dashboard**
-# Hurbalife-sales-DashBoard-using-Advance-Excel
+📊 **Herbalife Sales Management Dashboard – Advanced Excel**
 
-An interactive sales dashboard developed using **Microsoft Excel** to analyze sales performance, revenue, profit, products, and regional trends. The project uses **PivotTables, PivotCharts, XLOOKUP/VLOOKUP, IF/IFS, SUMIFS, COUNTIFS, Conditional Formatting, and Slicers** to transform raw sales data into meaningful business insights.
+An interactive Excel dashboard designed to analyze **sales, revenue, profit, products, customers, and regional performance**. The project uses **PivotTables, PivotCharts, XLOOKUP/VLOOKUP, SUMIFS, Conditional Formatting, and Slicers** to generate actionable sales insights.
